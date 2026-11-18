@@ -1,0 +1,9 @@
+Server/
+  app/
+    main.py
+    routers/
+      tickets.py
+    schemas/
+      ticket.py
+    services/
+      ticket_service.py
